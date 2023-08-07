@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
@@ -37,6 +37,20 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/English/869c24dd-a890-47de-9718-74ba3eb7d8be_en_Male.mp4"
+        },
+        {
+            "id": "b31b620b-f5d3-4207-82f4-36d3dd5828f1",
+            "collectionId": "English",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/English/b31b620b-f5d3-4207-82f4-36d3dd5828f1_en_Female.mp4"
+        },
+        {
+            "id": "904532a9-5921-4289-91b3-a35513d7c789",
+            "collectionId": "English",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/English/904532a9-5921-4289-91b3-a35513d7c789_en_Male.mp4"
         },
         {
             "id": "dc6b788f-ed00-4aba-abc0-8b408b1646b8",
